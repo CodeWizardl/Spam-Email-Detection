@@ -8,7 +8,7 @@ This project implements a spam email classifier using the Multinomial Naive Baye
 
 I have deployed the Spam Email Detector App on Streamlit using the Streamlit Community Cloud. Below is the output image showcasing the application's functionality.
 
-<img src="https://github.com/GauravG-20/Spam-Email-Detection-using-MultinomialNB/blob/main/app_preview.png">
+![app_preview](https://github.com/CodeWizardl/Spam-Email-Detection/assets/142290678/842ef588-6133-4c68-a9dd-ca84348ae525)
 
 ## How it Works
 
@@ -27,7 +27,7 @@ The classifier is trained and tested on a [**Spam Mails Dataset**](https://www.k
 
 Dataset Description:
 
-![Details of the dataset](https://github.com/GauravG-20/Spam-Email-Detection/blob/main/dataset_description.png)
+![dataset_description](https://github.com/CodeWizardl/Spam-Email-Detection/assets/142290678/58cfd014-cb90-44d8-bf7d-b1ab3b11e451)
 
 ## Model Accuracy
 
@@ -44,8 +44,8 @@ The classifier's accuracy is a crucial metric to evaluate its performance. After
 1. **Clone the Repository:**
 
      ```
-     git clone https://github.com/GauravG-20/Spam-Email-Detection-using-MultinomialNB.git
-     cd Spam-Email-Detection-using-MultinomialNB
+     git clone https://github.com/CodeWizardl/Spam-Email-Detection.git
+     cd Spam-Email-Detection
      ```
 3. **Install Dependencies:**  
       
